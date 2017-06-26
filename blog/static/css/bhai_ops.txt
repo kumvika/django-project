@@ -1,0 +1,56 @@
+Scalable (horizontal/vertical)
+ 
+HA
+ 
+NoSQL	mongo, et al
+ 
+CI/CD	Jenkins
+ 
+Apache
+ 
+Loadbalancer	HAProxy, ATS, Nginx
+ 
+Auth
+LDAP, et al
+
+Monitoring, alerting, dashboarding	nagios,statsd, grafana 
+ 
+Logging
+elasticsearch, logstash, kibana
+ 
+Async
+ 
+ 
+Autoremediation
+ 
+ 
+Cloud
+AWS
+ 
+Firewall
+ufw, Dfw, fail2ban
+ 
+Datastores
+mysql
+ 
+Queues
+kafka, beanstalkd, rabbitmq etc.
+ 
+DNS
+resolution, types of recs, Lbing
+ 
+SSH
+tunneling, steps
+ 
+Bash
+ 
+ 
+VPN
+ 
+ 
+versioning control
+ 
+ 
+unix stuff
+free, top, ps, grep, iotop, ip, df, du, uptime, vmstat, telnet, rsync, scp, watch, dd
+ 
